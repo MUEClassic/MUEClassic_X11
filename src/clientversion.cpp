@@ -13,7 +13,7 @@
  * for both mued and mue-qt, to make it harder for attackers to
  * target servers or GUI users specifically.
  */
-const std::string CLIENT_NAME("MonetaryUnit Core");
+const std::string CLIENT_NAME("MonetaryUnit Classic Core");
 
 /**
  * Client version number
